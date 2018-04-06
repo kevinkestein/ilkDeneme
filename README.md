@@ -1,0 +1,2 @@
+# ilkDeneme
+denedim
